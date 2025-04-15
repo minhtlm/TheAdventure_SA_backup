@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Tree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Confiner
+  - Player
+  - Ground
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Tree
+  - Rock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 3355615981
+    locked: 0
+  - name: Ground
+    uniqueID: 274200195
+    locked: 0
+  - name: Grass
+    uniqueID: 1992945933
+    locked: 0
+  - name: Cliff
+    uniqueID: 3382126439
+    locked: 0
+  - name: Object
+    uniqueID: 357213077
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2133247413
+    locked: 0
+  - name: Player
+    uniqueID: 1496082227
+    locked: 0
