@@ -1,0 +1,10 @@
+.vscode/
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp.csproj
+Library/
+Logs/
+Temp/
+UIElementsSchema/
+UserSettings/
+official_TheAdventure_SA.sln
+Assets/Scripts/
