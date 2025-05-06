@@ -17,8 +17,8 @@ TagManager:
   - Player
   - Ground
   - Interactable
-  - 
-  - 
+  - FishableWater
+  - Bridge
   - 
   - 
   - 
@@ -51,6 +51,9 @@ TagManager:
     locked: 0
   - name: Grass
     uniqueID: 1992945933
+    locked: 0
+  - name: Bridge
+    uniqueID: 2110836123
     locked: 0
   - name: Cliff
     uniqueID: 3382126439

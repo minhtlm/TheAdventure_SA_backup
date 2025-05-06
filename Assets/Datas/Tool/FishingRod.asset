@@ -18,5 +18,5 @@ MonoBehaviour:
   maxStackSize: 1
   description: Used to fish
   itemType: 1
-  targetLayer: 
-  animatorTrigger: 
+  targetLayer: Water
+  animatorTrigger: rodTrigger
