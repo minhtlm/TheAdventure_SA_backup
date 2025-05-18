@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90587fac0d15a89448670132175b618b, type: 3}
   m_Name: Wood
   m_EditorClassIdentifier: 
-  itemName: 
-  itemSprite: {fileID: 0}
-  itemPrice: 0
+  itemName: wood
+  itemSprite: {fileID: 21300000, guid: d162d8a5c3e54d043843646482b06baa, type: 3}
+  itemPrice: 50
   maxStackSize: 100
-  description: 
+  description: wood
   itemType: 0

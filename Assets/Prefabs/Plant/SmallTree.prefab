@@ -71,7 +71,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1496082227
-  m_SortingLayer: 5
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 039d953ea22d4b648b65d3bde6281d7f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -182,6 +182,7 @@ MonoBehaviour:
   woodPrefab: {fileID: 8534186763111398049, guid: 31f960e7335967d4aa4f8dc6a0c12596, type: 3}
   woodDropFromTree: 5
   woodDropFromStump: 2
+  chopSound: {fileID: 8300000, guid: 4e757ddbae3bfca4485a1dd5b4018d24, type: 3}
 --- !u!1 &6156000103732315876
 GameObject:
   m_ObjectHideFlags: 0
@@ -253,7 +254,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1496082227
-  m_SortingLayer: 5
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 62bcfa59c8fb45b46a967ab225bf44b2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -337,7 +338,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 357213077
-  m_SortingLayer: 4
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 2ace70f1353063f498c5c75f637a5986, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 1}

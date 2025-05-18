@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1f280a63c49ce946a2f0cd402648acb, type: 3}
   m_Name: Sandwich
   m_EditorClassIdentifier: 
-  itemName: 
-  itemSprite: {fileID: 0}
-  itemPrice: 0
+  itemName: sandwich
+  itemSprite: {fileID: 21300000, guid: ba953aefda7714b49bcef1e707373798, type: 3}
+  itemPrice: 500
   maxStackSize: 100
-  description: 
-  itemType: 0
-  restoreAmount: 0
+  description: a sandwich
+  itemType: 2
+  restoreAmount: 50
